@@ -1,0 +1,22 @@
+body{
+    background-image:url("https://img2.wallspic.com/crops/1/9/9/4/6/164991/164991-sunrise-apples-cloud-water-atmosphere-2732x2732.jpg");
+background-size: cover;
+}
+
+h2{
+    color:#AA4139;
+    text-align: center;
+border: 5px solid rgba(255,176,170,0.5);
+}
+
+p{
+    color:pink;
+}
+
+p{
+    color:green;
+}
+li{
+    list-style:none;
+    display:inline-block;
+}
